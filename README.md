@@ -31,6 +31,10 @@ For a detailed explanation of the gameplay, refer to the **How To Play** menu in
 7. **Health auto-regenerates** for 10 HP every 15 seconds during the first 9 rounds.
 8. **Notes** are hidden around the map. Press **F** within range to open them, granting 100 points upon the first discovery.
 
+## Screenshots
+![Menu](https://github.com/user-attachments/assets/4fd49b0e-f10b-450b-9cbc-dec35ec56324)
+![Shop](https://github.com/user-attachments/assets/53d06874-659f-40a5-800c-5d69b592c92f)
+
 ## Gameplay Features
 
 - **Wave-Based System**: The game uses a wave-based system. At the start of each wave, enemies are spawned around the player, with the number of enemies increasing as the wave number rises. The wave ends once all enemies are defeated.
@@ -53,8 +57,6 @@ For a detailed explanation of the gameplay, refer to the **How To Play** menu in
 ## Gameplay Clips
 ![GameplayClip](https://github.com/user-attachments/assets/24da733f-c1cb-47a8-a187-6d0d20abb35f)
 ![DeathClip](https://github.com/user-attachments/assets/5121df76-5447-40b4-9d56-d21db1d19757)
-![Menu](https://github.com/user-attachments/assets/4fd49b0e-f10b-450b-9cbc-dec35ec56324)
-![Shop](https://github.com/user-attachments/assets/53d06874-659f-40a5-800c-5d69b592c92f)
 
 
 
