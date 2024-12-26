@@ -25,7 +25,7 @@ For a detailed explanation of the gameplay, refer to the **How To Play** menu in
 1. **Kill all enemies** to advance to the next wave.
 2. A **10-second waiting period** occurs between waves.
 3. **Shoot enemies** to gain points, which can be spent to **buy better weapons**.
-4. **Visit the Food Truck** to buy weapons and ammo.
+4. **Visit the Ice Cream Truck** to buy weapons and ammo.
 5. **Bosses spawn every 5 rounds**.
 6. **Ammo** can drop on the ground after the 5th round by killing enemies.
 7. **Health auto-regenerates** for 10 HP every 15 seconds during the first 9 rounds.
