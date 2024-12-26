@@ -12,6 +12,14 @@ Game Download: [Link](https://drive.google.com/file/d/1Jz4s31RWZTETcwGlmlX5LOprH
 2. Inside the folder, run the `.exe` file to launch the game.
 3. Enjoy!
 
+## Built With 🛠️  
+
+This game was developed using the **Unity Game Engine**.  
+
+### **Packages Used**:  
+- **Input System** – For handling player inputs like movement, aiming, and shooting.  
+- **AI Navigation (NavMesh)** – For enemy pathfinding and AI behavior.
+  
 ## How to Play
 
 For a detailed explanation of the gameplay, refer to the **How To Play** menu in the game. Below is a short rundown:
