@@ -1,8 +1,15 @@
-# The Last Stand Game
-
 **Note:** This project is too large to fully upload to GitHub, so only a few files are provided. However, the full project build is available via [Download the full game build here](https://drive.google.com/file/d/1xfw3hL9k2Mf9lrBYqGcIyz2X-6WW0VVu/view?usp=sharing).
 
 Additionally, a playable build of the game is available for download. Simply download the folder, and to play the game, run the `.exe` file inside.
+
+> **📌 Course Info:**  
+> This project was created as part of **Saint Mary's University** Game Development course **CSCI 3827**.  
+> Developed by group members:
+> - Emmet Dixon  
+> - Ben Le  
+> - Eric Wall  
+>
+> ⚠️ A web version of the game also exists, but some features may not function properly as it was originally designed for PC download and play.
 
 ## How to Run
 
