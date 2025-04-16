@@ -47,7 +47,8 @@ For a detailed explanation of the gameplay, refer to the **How To Play** menu in
 ## Gameplay Features
 
 - **Wave-Based System**: The game uses a wave-based system. At the start of each wave, enemies are spawned around the player, with the number of enemies increasing as the wave number rises. The wave ends once all enemies are defeated.
-- **Point System**: Players earn points for every hit on an enemy. These points can be spent at the **Food Truck** to purchase weapons, ammo, and health packs.
+
+- **Point System**: Players earn points for every hit on an enemy. These points can be spent at the **Ice Cream Truck** to purchase weapons, ammo, and health packs.
 
 - **Critical Hits**: When the player lands three consecutive shots, they deal a critical hit, resulting in bonus damage and points.
 
